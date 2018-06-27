@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\tbradysaunders\desktop\panda\panda\panda\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\tbradysaunders\desktop\panda\panda\panda\source.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  panda.vcxproj -> C:\Users\TBradySaunders\Desktop\panda\panda\Debug\panda.exe
